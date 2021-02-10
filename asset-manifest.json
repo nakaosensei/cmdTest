@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0978a44e.chunk.css",
+    "main.js": "/static/js/main.14377472.chunk.js",
+    "main.js.map": "/static/js/main.14377472.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.58caf1d4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.58caf1d4.js.map",
+    "static/css/2.fefb9901.chunk.css": "/static/css/2.fefb9901.chunk.css",
+    "static/js/2.d2219d87.chunk.js": "/static/js/2.d2219d87.chunk.js",
+    "static/js/2.d2219d87.chunk.js.map": "/static/js/2.d2219d87.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9e2823632c3023f207170d1715f53bd4.js": "/precache-manifest.9e2823632c3023f207170d1715f53bd4.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.fefb9901.chunk.css.map": "/static/css/2.fefb9901.chunk.css.map",
+    "static/css/main.0978a44e.chunk.css.map": "/static/css/main.0978a44e.chunk.css.map",
+    "static/js/2.d2219d87.chunk.js.LICENSE.txt": "/static/js/2.d2219d87.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/static/media/testDecks0.29ab7228.png",
+    "static/media/commanderDecks.png": "/static/media/commanderDecks.b954b137.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58caf1d4.js",
+    "static/css/2.fefb9901.chunk.css",
+    "static/js/2.d2219d87.chunk.js",
+    "static/css/main.0978a44e.chunk.css",
+    "static/js/main.14377472.chunk.js"
+  ]
+}
